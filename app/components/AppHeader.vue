@@ -59,7 +59,7 @@ function onSelect(item: any) {
     <UNavigationMenu :items="items" />
 
     <template #right>
-      <UColorModeButton />
+<!-- <UColorModeButton /> -->
     </template>
 
     <template #body>
