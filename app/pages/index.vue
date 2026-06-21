@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { vehicules } from '~/data/vehicules'
+import { vehicules } from '../data/vehicules'
 
 const vehiculesVente = vehicules.filter(v => v.type === 'vente').slice(0, 3)
 </script>
