@@ -37,7 +37,7 @@ export const vehicules: Vehicule[] = [
     price: '100 000 000',
     year: 2022,
     km: '15 000',
-    image: '/images/vehicules/RR.jpg',
+    image: '/images/vehicules/rr.jpg',
     type: 'vente',
     description: 'Le summum du luxe automobile, confort et raffinement incomparables.'
   },
@@ -57,7 +57,7 @@ export const vehicules: Vehicule[] = [
     price: '350 000 000',
     year: 2023,
     km: '8 000',
-    image: '/images/vehicules/CADILLAC.jpg',
+    image: '/images/vehicules/cadillac.jpg',
     type: 'vente',
     description: 'Véhicule de luxe américain, prestige et confort exceptionnel.'
   },
@@ -67,7 +67,7 @@ export const vehicules: Vehicule[] = [
     price: '150 000 000',
     year: 2023,
     km: '12 000',
-    image: '/images/vehicules/SUV.jpg',
+    image: '/images/vehicules/suv.jpg',
     type: 'vente',
     description: 'SUV premium, spacieux et robuste, parfait pour tous les terrains.'
   },
@@ -128,7 +128,7 @@ export const vehicules: Vehicule[] = [
     price: '35 000',
     year: 2022,
     km: '18 000',
-    image: '/images/vehicules/JETOUR.jpg',
+    image: '/images/vehicules/jetour.jpg',
     type: 'location',
     description: 'SUV moderne et économique, bon compromis confort et budget.'
   }
