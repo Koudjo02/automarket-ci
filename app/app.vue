@@ -1,7 +1,7 @@
 <template>
   <UApp>
     <AppHeader />
-    <SearchBar />
+    <!-- <SearchBar /> -->
     <NuxtPage />
   </UApp>
 </template>
