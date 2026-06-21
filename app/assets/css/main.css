@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+/* Vos styles personnalisés ici */
+body {
+    font-family: "Inter", sans-serif;
+}
