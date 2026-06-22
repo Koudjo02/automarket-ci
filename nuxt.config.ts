@@ -1,6 +1,7 @@
 export default defineNuxtConfig({
-  compatibilityDate: '2025-05-15', // ✅ date stable connue
-  devtools: { enabled: true },
+  compatibilityDate: '2025-05-15',
+  ssr: false,  // ← ajoute ça
+  devtools: { enabled: false },  // ← désactive en prod
 
   modules: [
     '@nuxt/ui',
